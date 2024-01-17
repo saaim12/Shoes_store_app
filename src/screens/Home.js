@@ -125,6 +125,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     paddingHorizontal: 10,
+    marginHorizontal:10
   },
   list: {
     paddingHorizontal: 10,
