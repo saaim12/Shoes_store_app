@@ -7,7 +7,5 @@
 an app for a shoes store using animation libraries 
 also data is hardcoded in array and objects form
 # Video
-<video width="640" height="360" controls>
-    <source src="assets/WhatsApp%20Video%202024-02-04%20at%2001.34.56_6e57f07c.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<iframe width="640" height="360" src="assets/WhatsApp%20Video%202024-02-04%20at%2001.34.56_6e57f07c.mp4" frameborder="0" allowfullscreen></iframe>
+
